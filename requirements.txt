@@ -1,0 +1,8 @@
+opencv-python
+torch
+torchvision
+Pillow
+numpy
+matplotlib
+django
+djangorestframework
